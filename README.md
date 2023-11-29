@@ -1,2 +1,2 @@
-# test01
-A 2d hyper casual game
+# Chandrayaan-Guardian-CG
+Chandrayaan Guardian is a fun to play 2D Game
